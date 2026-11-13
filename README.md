@@ -8,7 +8,7 @@ Keeps track of current ingredients in pantry and fridge, what they can be used f
 - Feature 2 - Finds all recipes capable with current ingredients, or shows closest capable recipes and what’s needed to make them 
 - Feature 3 - Stores kinds of recipes, including dinner, snacks, drinks, and how to make them/prepare certain produce
 ## Challenges
-- Creating a database that can find the next-best option for recipes (if no recipes are available, which is the closest with 1-2 ingredients missing
+- Creating a database that can find the next-best option for recipes (if no recipes are available, which is the closest with 1-2 ingredients missing)
 - Finding out how to make an easy input system that is intuitive and easier than simply looking in the fridge/pantry
 -Making the system visually engaging and easy to traverse
 ## Outcomes
