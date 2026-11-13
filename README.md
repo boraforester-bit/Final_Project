@@ -14,6 +14,7 @@ Keeps track of current ingredients in pantry and fridge, what they can be used f
 ## Outcomes
 Ideal Outcome: 
 - A fully functional system capable of obtaining possible recipe ideas from current ingredients, or next-best options. Allows for easy input of new recipes, how to make them, and new ingredients added to storage. User interface available and drop down menus.
+
 Minimal Viable Outcome: 
 - Allows for ingredients to be input into system, and checks to see if all ingredients are available for at least 5 recipes
 ## Milestones 
