@@ -1,5 +1,6 @@
 # Title : Ingredient Library
-## Repository <Link to your project's public GitHub respository> 
+## Repository 
+https://github.com/boraforester-bit/Final_Project
 ## Description 
 Keeps track of current ingredients in pantry and fridge, what they can be used for, and stores relevant recipes.
 ## Features 
